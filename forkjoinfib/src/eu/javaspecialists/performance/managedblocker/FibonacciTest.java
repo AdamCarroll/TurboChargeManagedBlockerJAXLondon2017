@@ -51,7 +51,7 @@ public class FibonacciTest {
         System.out.println("test1_000() time = " + time);
     }
 
-    @Test
+    //@Test
     public void test1_000_000() {
         long time = System.currentTimeMillis();
         System.out.println("Before test1_000_000(): " + ForkJoinPool.commonPool());
@@ -62,7 +62,7 @@ public class FibonacciTest {
         System.out.println("Before test1_000_000(): " + ForkJoinPool.commonPool());
     }
 
-    @Test
+    //@Test
     public void test10_000_000() {
         long time = System.currentTimeMillis();
         Fibonacci fib = new Fibonacci();

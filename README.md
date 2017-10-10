@@ -1,1 +1,0 @@
-# TurboChargeManagedBlockerJAXLondon2017

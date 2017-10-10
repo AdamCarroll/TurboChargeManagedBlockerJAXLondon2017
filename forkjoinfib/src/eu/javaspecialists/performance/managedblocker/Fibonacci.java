@@ -5,6 +5,8 @@ import java.util.concurrent.*;
 
 // step 1: test100_000_000() time = 43617
 // step 2: test100_000_000() time = 22541
+// step 3: test100_000_000() time = 15004
+
 
 
 // TODO: Sign up to Heinz's Newsletter: www.javaspecialists.eu
